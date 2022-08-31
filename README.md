@@ -29,8 +29,8 @@ return msg;*
 4. Agregar un dashboard de gauge para las variables y un chart para las graficas
 
 Aqui puedes ver los nodos de los flow :
-![](https://github.com/ArathTzec/Flow-3/blob/main/Interfaz_Node-Red_Flow3.png?raw=true)
+![](https://github.com/ArathTzec/Flow-4/blob/main/Node-Red.png?raw=true)
 
 ## Resultados
 Una vez completados los pasos anteriores te dirigirá al Dashboard, que es la interfaz donde ver la temperatura y humedad dependiendo del mensaje que envies, trata de enviar el codigo que se encuentra en notas 
-![](https://https://github.com/ArathTzec/Flow-4/blob/main/Envio%20de%20datos%20de%20Manera-Local.png?raw=true)
+![](https://github.com/ArathTzec/Flow-4/blob/main/Envio%20de%20datos%20de%20Manera-Local.png?raw=true)
