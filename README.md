@@ -34,3 +34,5 @@ Aqui puedes ver los nodos de los flow :
 ## Resultados
 Una vez completados los pasos anteriores te dirigirá al Dashboard, que es la interfaz donde ver la temperatura y humedad dependiendo del mensaje que envies, trata de enviar el codigo que se encuentra en notas 
 ![](https://github.com/ArathTzec/Flow-4/blob/main/Envio%20de%20datos%20de%20Manera-Local.png?raw=true)
+
+Puedes encontrar el video explicativo en el siguiente enlace: [Youtube](https://www.youtube.com/watch?v=XLfiAwqAS1o)
